@@ -1,0 +1,13 @@
+D:\Projects\MVP\MVP\bin\Debug\MVP.exe.config
+D:\Projects\MVP\MVP\bin\Debug\MVP.exe
+D:\Projects\MVP\MVP\bin\Debug\MVP.pdb
+D:\Projects\MVP\MVP\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Projects\MVP\MVP\obj\Debug\MVP.csprojResolveAssemblyReference.cache
+D:\Projects\MVP\MVP\obj\Debug\MVP.Properties.Resources.resources
+D:\Projects\MVP\MVP\obj\Debug\MVP.Views.DialogWin.resources
+D:\Projects\MVP\MVP\obj\Debug\MVP.Views.DialogWin2.resources
+D:\Projects\MVP\MVP\obj\Debug\MVP.Views.DialogWin3.resources
+D:\Projects\MVP\MVP\obj\Debug\MVP.MainView.resources
+D:\Projects\MVP\MVP\obj\Debug\MVP.csproj.GenerateResource.Cache
+D:\Projects\MVP\MVP\obj\Debug\MVP.exe
+D:\Projects\MVP\MVP\obj\Debug\MVP.pdb
